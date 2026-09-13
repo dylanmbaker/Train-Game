@@ -1,0 +1,65 @@
+{
+  "name": "palette",
+  "colors": [
+    {
+      "id": 1,
+      "hex": "#a04d1f",
+      "name": "Sienna",
+      "use": "Rust",
+    }, 
+    {
+      "id": 2,
+      "hex": "#4b5358",
+      "name": "Blue Sapphire",
+      "use": "Metal"
+    },
+    {
+      "id": 3,
+      "hex": "#edf2ef",
+      "name": "Mint Cream",
+      "use": "Text and Snow"
+    },
+    {
+      "id": 4,
+      "hex": "#57c4e5",
+      "name": "Larimar",
+      "use": "Sky"
+    },
+    {
+      "id": 5,
+      "hex": "#1d4010",
+      "name": "Racing Green",
+      "use": "Tree Leaves"
+    },
+    {
+      "id": 6,
+      "hex": "#007b21",
+      "name": "Darker Green",
+      "use": "Tree Leaves"
+    },
+    {
+      "id": 7,
+      "hex": "#d2c174",
+      "name": "Kariyasu",
+      "use": "Sand"
+    },
+    {
+      "id": 8,
+      "hex": "#880808",
+      "name": "Dark Red",
+      "use": "Blood"
+    },
+    {
+      "id": 9,
+      "hex": "#4e0e04",
+      "name": "Dried Blood",
+      "use": "Blood"
+    },
+    {
+      "id": 10,
+      "hex": "#532e18",
+      "name": "Seal Brown",
+      "use": "Wood/Tree"
+    }
+  ]
+}
