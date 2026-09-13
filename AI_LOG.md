@@ -1,3 +1,3 @@
 | Date | Team Member | Tool & Version | Prompt / Query Summary | Output Received & Intended Use | Human Verification & Modifications Made |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| - | - | - | - | - | - |
+| 2026-09-13 | Chas | OpenAI Codex (GPT-6) | Review the repository and Assignment 1 instructions; establish naming conventions, contribution workflow, AI policy, and an execution plan. | Drafted repository context, `CONTRIBUTING.md`, an AI usage policy, an Assignment 1 checklist, and a pull-request template. Intended as structural documentation for team review and completion of Assignment 1. | Checked against `readmeprof.md` and the existing team roles. Project-specific claims were left as explicit open decisions. Final wording and policies require team review before submission. |

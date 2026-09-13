@@ -1,1 +1,23 @@
+# Operating-system files
+.DS_Store
+Thumbs.db
 
+# Editor and local workspace settings
+.idea/
+.vscode/
+*.swp
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+
+# Logs and temporary output
+*.log
+tmp/
+temp/
+
+# Local course reference
+readmeprof.md
+
+# Dependency, build, and coverage directories will be added after the stack is selected.
