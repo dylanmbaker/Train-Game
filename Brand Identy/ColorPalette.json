@@ -1,11 +1,11 @@
 {
-  "name": "palette",
+  "name": "Game Color Palette",
   "colors": [
     {
       "id": 1,
       "hex": "#a04d1f",
       "name": "Sienna",
-      "use": "Rust",
+      "use": "Rust"
     }, 
     {
       "id": 2,
