@@ -54,61 +54,61 @@ The IRONBOUND color palette combines industrial materials, weathered infrastruct
     <tbody>
       <tr>
         <td>Sienna</td>
-        <td style="background-color: #A04D1F; color: white;"></td>
+        <td style="padding: 0;"><img style="width: 100%;" src="https://placehold.co/20x10/A04D1F/A04D1F.png" /></td>
         <td><code>#A04D1F</code></td>
         <td>Rust, oxidation, worn metal, and warm industrial accents.</td>
       </tr>
       <tr>
         <td>Blue Sapphire</td>
-        <td style="background-color: #4B5358; color: white;"></td>
+        <td style="padding: 0;"><img style="width: 100%;" src="https://placehold.co/20x10/4B5358/4B5358.png" /></td>
         <td><code>#4B5358</code></td>
         <td>Metal, machinery, train components, and industrial surfaces.</td>
       </tr>
       <tr>
         <td>Mint Cream</td>
-        <td style="background-color: #EDF2EF; color: white;"></td>
+        <td style="padding: 0;"><img style="width: 100%;" src="https://placehold.co/20x10/EDF2EF/EDF2EF.png" /></td>
         <td><code>#EDF2EF</code></td>
         <td>Primary light text, snow, clouds, highlights, and light UI surfaces.</td>
       </tr>
       <tr>
         <td>Larimar</td>
-        <td style="background-color: #57C4E5; color: white;"></td>
+        <td style="padding: 0;"><img style="width: 100%;" src="https://placehold.co/20x10/57C4E5/57C4E5.png" /></td>
         <td><code>#57C4E5</code></td>
         <td>Clear skies, bright atmospheric lighting, water, and informational UI accents.</td>
       </tr>
       <tr>
         <td>Racing Green</td>
-        <td style="background-color: #1D4010; color: white;"></td>
+        <td style="padding: 0;"><img style="width: 100%;" src="https://placehold.co/20x10/1D4010/1D4010.png" /></td>
         <td><code>#1D4010</code></td>
         <td>Dark leaves, forests, shaded vegetation, and environmental shadows.</td>
       </tr>
       <tr>
         <td>Growth Green</td>
-        <td style="background-color: #007B21; color: white;"></td>
+        <td style="padding: 0;"><img style="width: 100%;" src="https://placehold.co/20x10/007B21/007B21.png" /></td>
         <td><code>#007B21</code></td>
         <td>Fresh leaves, vines, sunlit vegetation, and signs of natural recovery.</td>
       </tr>
       <tr>
         <td>Kariyasu</td>
-        <td style="background-color: #D2C174; color: white;"></td>
+        <td style="padding: 0;"><img style="width: 100%;" src="https://placehold.co/20x10/D2C174/D2C174.png" /></td>
         <td><code>#D2C174</code></td>
         <td>Sand, wheat, dry grass, faded terrain, and weathered outdoor materials.</td>
       </tr>
       <tr>
         <td>Dark Red</td>
-        <td style="background-color: #880808; color: white;"></td>
+        <td style="padding: 0;"><img style="width: 100%;" src="https://placehold.co/20x10/880808/880808.png" /></td>
         <td><code>#880808</code></td>
         <td>Fresh blood, critical danger indicators, damage feedback, and warning lights.</td>
       </tr>
       <tr>
         <td>Dried Blood</td>
-        <td style="background-color: #4E0E04; color: white;"></td>
+        <td style="padding: 0;"><img style="width: 100%;" src="https://placehold.co/20x10/4E0E04/4E0E04.png" /></td>
         <td><code>#4E0E04</code></td>
         <td>Old blood, stains, environmental storytelling, and darker horror elements.</td>
       </tr>
       <tr>
         <td>Seal Brown</td>
-        <td style="background-color: #532E18; color: white;"></td>
+        <td style="padding: 0;"><img style="width: 100%;" src="https://placehold.co/20x10/532E18/532E18.png" /></td>
         <td><code>#532E18</code></td>
         <td>Wood, tree bark, soil, railway ties, and aged natural materials.</td>
       </tr>
